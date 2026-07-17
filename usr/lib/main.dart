@@ -249,7 +249,7 @@ class ProfileTab extends StatelessWidget {
         actions: [
           IconButton(
             icon: const Icon(Icons.settings),
-            onTap: () {},
+            onPressed: () {},
           ),
         ],
       ),
